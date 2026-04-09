@@ -4,7 +4,7 @@ import java.util.Set;
 public class TrainConsistManagement {
     /*
      * @author developer
-     * @version 2.0
+     * @version 3.0
      */
     public static void main(String[] args){
 
